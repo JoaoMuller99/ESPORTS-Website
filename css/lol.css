@@ -1,0 +1,17 @@
+header #topo h1 a {
+	color:#D8D8D8;
+	text-decoration: none;
+}
+
+header #topo h1 :hover {
+	text-decoration: none;
+	color: #0DB1FF;
+}
+
+.conteudo {
+	width: 100%;
+}
+
+.conteudo img {
+	width: 100%;
+}

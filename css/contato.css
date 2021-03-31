@@ -1,0 +1,43 @@
+form h1 {
+	color: white;
+	text-decoration: none;
+}
+
+.formulario	{
+	width: 50vw;
+}
+
+.input-div {
+	width: 100%;
+}
+
+.input-form {
+	border-radius: 5px;
+}
+
+#voltar {
+	width: 50%;
+}
+
+@media (min-width: 300px ) and (max-width: 768px) {
+	.formulario	{
+		width: 100vw;
+	}
+	
+@media (min-width: 769px) {
+	.formulario	{
+		width: 100vw;
+	}
+}
+
+@media (min-width: 993px) {
+	.formulario	{
+		width: 100vw;
+	}
+}
+
+@media (min-width: 1170px) {
+	.formulario	{
+		width: 100vw;
+	}
+}
